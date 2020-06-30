@@ -6,6 +6,15 @@ h1{
     font-size: 50px;
 }
 
-name-highlitght{
+.name-highlitght{
     color: orange;
+}
+.myself{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.myself img{
+    width: 100%;
 }
