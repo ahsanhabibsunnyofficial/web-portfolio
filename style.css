@@ -1,6 +1,6 @@
-body
-h1{
+body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -18,3 +18,18 @@ h1{
 .myself img{
     width: 100%;
 }
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+ section{
+     height: 500px;
+ }
+ .hair-me{
+     text-decoration: none;
+     background-image: linear-gradient(lightsalmon,orange);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 800;
+ }
